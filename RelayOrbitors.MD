@@ -17,3 +17,6 @@
 8. Telemetry system
 
 9. Secondary low energy transceivers for troubleshooting
+
+
+Next step : Study of existing Mars orbitors to gather inputs
